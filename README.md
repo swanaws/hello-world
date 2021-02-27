@@ -1,2 +1,5 @@
 # hello-world
-my first app
+
+Hi everyone,
+
+Just want to store and display some images for our photographic society
